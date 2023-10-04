@@ -13,7 +13,7 @@ Remaining Cards: The tracker also shows the total number of cards left in the de
 
 Reset Option: Need to start over? Hit the reset button to clear the count and begin tracking again.
 
-Whether you're a beginner learning card counting strategies or a seasoned blackjack player, our Blackjack Card Counter Tracker is a handy tool to enhance your gaming experience. Try it out and elevate your blackjack skills!
+Whether you're a beginner learning card counting strategies or a regular blackjack player, this Blackjack Card Counter Tracker is a handy tool to enhance your gaming experience. Try it out and elevate your blackjack skills!
 
 ## Running the Application 
 ### Front-End 
